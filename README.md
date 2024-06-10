@@ -1,5 +1,6 @@
 
 *Introduction to Python and Arduino
+<img width="712" alt="Screenshot 2024-06-10 at 12 23 48" src="https://github.com/Kenny254/ARDUINO-PYTHON-USING-PYSERIAL/assets/22868045/92398794-f61d-46c9-a7c0-c8051dda2a57">
 
 *Python Programming Language
 Python is a high-level programming language known for its simplicity and readability. It's widely used in various fields such as web development, data analysis, artificial intelligence, and more. Python's versatility and extensive libraries make it a popular choice for beginners and professionals alike.
